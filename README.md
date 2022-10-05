@@ -8,10 +8,11 @@
 
 <ul>
     <li>React</li>
-    <li>Expressjs</li>
-    <li>Nodejs</li>
+    <li>Express.js</li>
+    <li>Node.js</li>
     <li>Material UI</li>
     <li>Jest</li>
+    <li>JavaScript</li>
     <li>TypeScript</li>
     <li>NPM</li>
     
@@ -19,15 +20,15 @@
 
 ## 🔍 Instalación
 
-<p> *** Tener instalado el Visual Studio Code y el Node js</p>
+<p> *** Tener instalado Visual Studio Code Node js</p>
     <ul>
-        <li>Clonamos el repositorio utilizamos el comando:</li>
+        <li>Clonamos el repositorio, utilizamos el comando:</li>
             <p>git clone <i>https://github.com/soterraniaBcn/la-soterrania.git</i></p> 
-        <li>Instalamos Node Package Manager: </li> 
+        <li>Instalamos Node Package Manager con el comando: </li> 
              <p>npm install / npm i</p>
-        <li>Vizualizamos el proyecto ejecutando en un terminal integrado para client</li> 
+        <li>Visualizamos el proyecto ejecutando en un terminal integrado en la carpeta client</li> 
             <ul> 
-                <li>📂 El "client" usando el comando:</li> 
+                <li>📂 "client" usando el comando:</li> 
                     <p>npm start</p>
             </ul>
     </ul>
