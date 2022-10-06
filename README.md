@@ -16,6 +16,11 @@
     <li>TypeScript</li>
     <li>NPM</li>
     
+## :eyes: Demo de la app
+
+<p>Página de producción de la soterrània: <i>https://lasoterraniaweb.netlify.app</i></p> 
+
+    
 </ul>
 
 ## 🔍 Instalación
